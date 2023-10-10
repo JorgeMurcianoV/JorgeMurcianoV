@@ -24,4 +24,4 @@
     >>- **maxclassrepeat**: Número máximo de caracteres consecutivos de la misma clase.
 ## Comprobación
 >Para comprobar el nivel de seguridad de nuestra contraseña podemos usar el siguiente comando: <p>```echo contraseña | pwscore``` <p>Con este comando poniendo la contraseña que queramos nos dirá si esta no cumple los requesitos que hemos puesto modificando el archivo **/etc/security/pwquality.conf** y si cumple los requesitos que hemos puesto nos devolverá un número del 0 al 100 dependiendo de lo segura que sea nuestra contraseña. <p>Como por ejemplo:<p>
-![tux]()
+![tux](/home/alumnom/Escritorio/SEGURIDAD/practica 2/contraseña falla.png)
